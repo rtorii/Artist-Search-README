@@ -2,7 +2,7 @@
 
 **Description:**
 
-This is an artist search website. I used Vue.js which is a JavaScript framework.
+This is an artist search website. I used MVC pattern in developing the application using Vue.js which is a web application development framework. I also used Bootstrap and Axios. For the Model in MVC, this prorgam uses iTunes API.
 
 The page contains a search bar. After searching for an artist. The Itunes API generates a list of results as well as the genres of the music by the artist.
 

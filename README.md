@@ -1,4 +1,4 @@
-# Artist-Search-README
+# Artist Search
 
 **Description:**
 

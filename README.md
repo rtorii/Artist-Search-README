@@ -16,7 +16,7 @@ The page contains a search bar. After searching for an artist. The Itunes API ge
 
 A user can select a genre to update the list. They can also sort the list by collection name and price.
 
-| selecting a genre | sorting a list |
+| selecting genres | sorting a list |
 | ------ | ------ |
 |<img src="photos_for_README/4_genre.png" width="470"/>|<img src="photos_for_README/5_sort.png" width="470"/>|
 

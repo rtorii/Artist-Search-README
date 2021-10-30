@@ -6,7 +6,7 @@ This is an artist search website. I used MVC pattern in developing the applicati
 
 The page contains a search bar. After searching for an artist. The Itunes API generates a list of results as well as the genres of the music by the artist. Each item contains a description and a track info.
 
-| Home page | After searching for an artist |
+| Hhme page | after searching for an artist |
 | ------ | ------ |
 |<img src="photos_for_README/1_home_page.png" width="470"/>|<img src="photos_for_README/2.png" width="470"/>|
 
@@ -16,7 +16,7 @@ The page contains a search bar. After searching for an artist. The Itunes API ge
 
 A user can select a genre to update the list. They can also sort the list by collection name and price.
 
-| Selecting a genre | Sorting a list |
+| selecting a genre | sorting a list |
 | ------ | ------ |
 |<img src="photos_for_README/4_genre.png" width="470"/>|<img src="photos_for_README/5_sort.png" width="470"/>|
 

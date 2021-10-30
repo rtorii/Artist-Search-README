@@ -20,7 +20,7 @@ A user can select a genre to update the list. They can also sort the list by col
 
 | Selecting genres | Sorting the list |
 | ------ | ------ |
-|<img src="photos_for_README/4_genre.png" width="470"/>|<img src="photos_for_README/5_sorting.png" width="470"/>|
+|<img src="photos_for_README/4_genre.png" width="470"/>|<img src="photos_for_README/5_sort.png" width="470"/>|
 
 
 Created by Ryota Torii <rtorii@protonmail.com> on 10/29/21.

@@ -1,6 +1,6 @@
 # Artist Search
 
-[Demo on YouTube](https://www.youtube.com/watch?v=SHw1oNpVSPo)
+[Demo Video](https://www.youtube.com/watch?v=SHw1oNpVSPo)
 
 **Description:**
 

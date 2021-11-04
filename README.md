@@ -10,7 +10,7 @@ The page contains a search bar. After a user types in an artist and presses the 
 
 | Home page |After searching for an artist |
 | ------ | ------ |
-|<img src="photos_for_README/1_home_page.png" width="470"/>|<img src="photos_for_README/2.png" width="470"/>|
+|<img src="photos_for_README/1_home_page.png" width="500"/>|<img src="photos_for_README/2.png" width="470"/>|
 
 | Description tab | Track info. tab |
 | ------ | ------ |

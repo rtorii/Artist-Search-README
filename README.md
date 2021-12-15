@@ -1,4 +1,4 @@
-# Artist Search
+# Artist Search (HTML, CSS, JavaScript)
 
 [Demo Video](https://www.youtube.com/watch?v=SHw1oNpVSPo)
 

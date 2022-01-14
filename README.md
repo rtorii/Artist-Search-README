@@ -4,7 +4,7 @@
 
 This is an artist search web application. I used the MVC pattern in developing the application using Vue.js, which is a web application development framework. I also used Bootstrap, which is also a framework. The application requires internet access to get data from the API.
 
-The page contains a search bar. After a user types in an artist and presses the enter key, iTunes Search API returns data (JSON object). Then, the data is used to generate a list of results and the genres of the music by the artist. Each result grid contains an image, a description, and track info.  
+The page contains a search bar. After a user types in the name of an artist and presses the enter key, iTunes Search API returns data (JSON object). Then, the data is used to generate a list of results and the genres of the music by the artist. Each result grid contains an image, a description, and track info.  
 
 
 

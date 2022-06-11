@@ -1,5 +1,7 @@
 # Artist Search (HTML, CSS, JavaScript)
 
+日本語の説明：https://github.com/rtorii/Artist-Search-README/blob/main/README_2.md
+
 **Description:**
 
 This is an artist search web application. I used the MVC pattern in developing the application using Vue.js, which is a web application development framework. I also used Bootstrap, which is also a framework. The application requires internet access to get data from the API.
